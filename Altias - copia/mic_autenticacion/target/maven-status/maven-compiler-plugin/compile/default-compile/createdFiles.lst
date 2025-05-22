@@ -1,0 +1,3 @@
+com\altias\mic_autenticacion\usuario\User.class
+com\altias\mic_autenticacion\repository\UserRepository.class
+com\altias\mic_autenticacion\MicAutenticacionApplication.class
